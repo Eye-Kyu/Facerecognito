@@ -4,7 +4,7 @@ import 'tachyons';
 const Navigation = () =>  {
     return (
         <nav style={{display: 'flex', justifyContent: 'space-between'}}>
-            <p className="tr f3 link dim black b u">Sign Out</p>
+            <p className="tr f4 link dim black b u pr2 pointer">Sign Out</p>
         </nav>
     )
 }
