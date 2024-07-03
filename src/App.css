@@ -11,9 +11,6 @@
   align-items: center;
   justify-content: center;
 }
-button {
-  cursor: pointer;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

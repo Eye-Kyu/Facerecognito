@@ -1,4 +1,14 @@
+body {
+    background: rgb(34,195,97);
+    background: linear-gradient(173deg, rgba(34,195,97,1) 30%, rgba(90,70,195,0.9654061453683036) 55%, rgba(70,179,195,1) 78%); 
+    height: 100vh;
+}
 button {
     background: linear-gradient(to right, #ff7a0dee, #d1e402);
     border: none;
+}
+.form {
+    background-color: #ffffff;
+    opacity: 0.8;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #272727 10px ), repeating-linear-gradient( #2b252b55, #646464 );
 }
